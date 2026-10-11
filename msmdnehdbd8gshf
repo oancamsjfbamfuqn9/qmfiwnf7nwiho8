@@ -1,6 +1,7 @@
 local WHITELIST = {
     ["wattskaren"] = true,
     ["NomeDeOutroJogador"] = true,
+    ["murilo98828"] = true,
 }
 
 return WHITELIST

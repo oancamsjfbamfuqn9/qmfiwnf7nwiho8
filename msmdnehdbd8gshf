@@ -1,0 +1,6 @@
+local WHITELIST = {
+    ["wattskaren"] = true,
+    ["NomeDeOutroJogador"] = true,
+}
+
+return WHITELIST

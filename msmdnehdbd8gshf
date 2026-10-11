@@ -1,6 +1,5 @@
 return {
-    ["kayrus9990"] = true,
-    ["murilo98828"] = true,
-    ["wattskaren"] = true,
-    ["hfbn"] = true,
+    "kayrus9990",
+    "murilo98828",
+    "wattskaren"
 }

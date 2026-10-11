@@ -1,7 +1,6 @@
-local WHITELIST = {
-    ["wattskaren"] = true,
-    ["NomeDeOutroJogador"] = true,
+return {
+    ["kayrus9990"] = true,
     ["murilo98828"] = true,
+    ["wattskaren"] = true,
+    ["hfbn"] = true,
 }
-
-return WHITELIST
